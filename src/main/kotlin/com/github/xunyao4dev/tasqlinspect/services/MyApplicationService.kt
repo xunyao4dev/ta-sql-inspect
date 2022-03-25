@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.xunyao4dev.tasqlinspect.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xunyao4dev.tasqlinspect.MyBundle
 
 class MyApplicationService {
 
